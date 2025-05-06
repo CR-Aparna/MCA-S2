@@ -23,7 +23,13 @@ public class Symmetric {
 				}
 			}
 		}
-		
+		System.out.println("The given Matrix is:\n");
+		for (i=0;i<row;i++){
+			for (j=0;j<col;j++)
+				System.out.print(matrix[i][j]+"\t");
+				System.out.println();
+		}
+
 		if(state){
 			System.out.println("Matrix is Symmetric");
 		}
