@@ -23,7 +23,7 @@ public class Symmetric {
 				}
 			}
 		}
-
+		
 		if(state){
 			System.out.println("Matrix is Symmetric");
 		}
