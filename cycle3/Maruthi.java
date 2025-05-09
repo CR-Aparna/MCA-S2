@@ -73,3 +73,108 @@ public class Maruthi extends Car {
 	}
 }
 
+
+/*Enter the number of Cars: 
+3
+
+ Enter the Details of Cars
+
+ Mileage:
+21.5
+
+ Price:
+550000
+
+Ownership Cost:
+75000
+
+ Warranty:
+2
+
+ Seating Capacity:
+5
+
+ Fuel Type:
+Petrol
+
+ Model Type:
+Swift
+
+ Enter the Details of Cars
+
+ Mileage:
+22
+
+ Price:
+820000
+
+Ownership Cost:
+52000
+
+ Warranty:
+4
+
+ Seating Capacity:
+5
+
+ Fuel Type:
+Disel
+
+ Model Type:
+Baleno
+
+ Enter the Details of Cars
+
+ Mileage:
+25
+
+ Price:
+1000000
+
+Ownership Cost:
+100000 
+
+ Warranty:
+3
+
+ Seating Capacity:
+7
+
+ Fuel Type:
+Disel
+
+ Model Type:
+Innova
+
+-------Informations of Cars-------
+
+
+ Details of Maruthi Cars
+Mileage : 21.5
+Price : 550000
+Ownership cost : 75000.0
+Warranty : 2
+Seating Capacity : 5
+Fuel Type : Petrol
+Model Type : Swift
+************************************
+
+ Details of Maruthi Cars
+Mileage : 22.0
+Price : 820000
+Ownership cost : 52000.0
+Warranty : 4
+Seating Capacity : 5
+Fuel Type : Disel
+Model Type : Baleno
+************************************
+
+ Details of Maruthi Cars
+Mileage : 25.0
+Price : 1000000
+Ownership cost : 100000.0
+Warranty : 3
+Seating Capacity : 7
+Fuel Type : Disel
+Model Type : Innova
+************************************ */

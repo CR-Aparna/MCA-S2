@@ -92,6 +92,74 @@ public class BookDetails {
 }
 
 
+/*
+Enter the No.of Literature Books2
+
+ Enter the literature book details
+
+
+1).
+
+ Book : Hamlet
+
+ Publisher: Penguin
+
+ Category: Tragedy
+
+2).
+
+ Book : Leaves of Grass
+
+ Publisher: Harper & Brothers
+
+ Category: Poetry
+
+Enter the No. of fiction Books
+2
+
+Enter the fiction Book Details
+
+
+1).
+
+ Book : 1984
+
+ Publisher: Secker & Warburg
+
+ Category: Dystopian
+
+2).
+
+ Book : Brave New World
+
+ Publisher: Chatto & Windus
+
+ Category: Sci-Fi
+
+*********Informations of all the Literature Books**********
+
+1).
+Publisher : Hamlet
+Book :Penguin
+Category :Tragedy
+
+2).
+Publisher : Leaves of Grass
+Book :Harper & Brothers
+Category :Poetry
+
+*********Informations of all the Fiction Books**********
+
+1).
+Publisher :1984
+Book: Secker & Warburg
+Category :Dystopian
+
+2).
+Publisher :Brave New World
+Book: Chatto & Windus
+Category :Sci-Fi */
+
 
 
 

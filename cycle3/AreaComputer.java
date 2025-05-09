@@ -59,7 +59,28 @@ public class AreaComputer {
 }
 
 
+/******Area of different shapes using overloaded functions*****
 
+____RECTANGLE____
+->Enter the length and breadth:
+10
+12
+->Area: 120
 
+____SQUARE____
+->Enter the side:
+7
+->Area: 49
+
+____TRIANGLE____
+->Enter the base and height:
+10
+15
+->Area: 75.0
+
+____CIRCLE____
+->Enter the radius:
+10
+->Area: 314.0 */
 
 
