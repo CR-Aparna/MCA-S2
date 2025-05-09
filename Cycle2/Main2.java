@@ -35,6 +35,24 @@ public class Main2 {
 	}
 }
 }
+
+/* Output
+Enter count of employee list :3
+Enter Number of Employee:1
+Enter Name of the Employee:Alice John
+Enter salary of Employee:50000
+Enter Number of Employee:2
+Enter Name of the Employee:John Doe
+Enter salary of Employee:60000
+Enter Number of Employee:3
+Enter Name of the Employee:Jane Smith
+Enter salary of Employee:45000
+Enter the number of Employee to be filtered out :
+2
+Employee Number: 2
+Employee Name: John Doe
+Employee Salary: 60000
+ */
 	
 	
 
