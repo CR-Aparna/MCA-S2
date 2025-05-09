@@ -36,4 +36,14 @@ public class Cpu{
 }
 
 
+/*
+RAM info
+Memory = 8GB
+Manufacturer = Intel
+
+
+Processor info
+No of cores =8
+Manufacturer = Samsung
+ */
 

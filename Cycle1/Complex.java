@@ -22,4 +22,9 @@ public class Complex{
 		add(first.r,first.i,second.r,second.i);
 	}
 }
-	
+
+
+/*Complex Numbers are:
+5+4i
+7+9i
+After Addition = 12+13i */

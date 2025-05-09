@@ -39,5 +39,12 @@ public class Product{
 	}
 }
 
-		
+
+/*Product information:
+Product code     Product name   Product price
+101             Product1                100.0
+102             Product2                128.4
+103             Product3                790.0
+
+Product 1 is of the lowest price. */
 		

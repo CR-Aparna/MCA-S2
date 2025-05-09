@@ -34,5 +34,28 @@ public class Add_matrix{
 		}
 	}
 }
-				
+
+
+/*Enter the number of rows
+3
+Enter the number of columns
+3
+Enter the elements of matrix 1
+1 3 5   
+
+7 9 11
+
+13 15 17
+
+Enter the elements of matrix 2
+2 4 6
+
+8 10 12
+
+14 16 18
+
+Sum of matrices:-
+3       7       11
+15      19      23
+27      31      35 */
 		
